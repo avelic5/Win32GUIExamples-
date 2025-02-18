@@ -1,4 +1,5 @@
 Win32GUIExamples
+
 This repository contains examples of Windows GUI applications using the Win32 API. Each example demonstrates specific aspects of Win32 development, such as window creation, event handling, and custom rendering.
 
 🚀 Features
